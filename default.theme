@@ -32,6 +32,8 @@ MenuIconSize=                           16
 SmallIconSize=                          16
 LargeIconSize=                          32
 HugeIconSize=                           48
+TrayIconMaxWidth=                       32
+TrayIconMaxHeight=                      32
 
 #DialogBox
 
@@ -159,6 +161,6 @@ ClockFontNameXft=                       "sans-serif:size=9"
 #Desktop
 DesktopBackgroundColor=                 "rgb:00/00/00"
 DesktopTransparencyColor=               "rgb:00/00/00"
-DesktopBackgroundCenter=1
-DesktopBackgroundScaled=1
-DesktopBackgroundImage="default.jpg"
+DesktopBackgroundCenter=                1
+DesktopBackgroundScaled=                1
+DesktopBackgroundImage=                 "default.jpg"
