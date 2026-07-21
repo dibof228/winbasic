@@ -1,0 +1,8 @@
+/* XPM */
+static char * frameIR_xpm[] = {
+"9 1 4 1",
+" 	c #DBDFE6",
+".	c #D7E4F2",
+"+	c #E9ECF3",
+"@	c #4C4C4C",
+" ......+@"};

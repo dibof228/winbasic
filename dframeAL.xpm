@@ -1,0 +1,9 @@
+/* XPM */
+static char * frameAL_xpm[] = {
+"9 1 5 1",
+" 	c #000000",
+".	c #FFFFFF",
+"+	c #BAD2EA",
+"@	c #B9D1EA",
+"#	c #B5CFE7",
+" .+++++@#"};
