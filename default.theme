@@ -2,7 +2,7 @@ ThemeAuthor=                            "dibof228"
 ThemeDescription=                       "WinBasic"
 
 Look=                                   "flat"
-Gradients=                              "buttonA.xpm buttonI.xpm taskbuttonactive.xpm taskbuttonbg.xpm taskbuttonminimized.xpm"
+Gradients=                              "buttonA.xpm buttonI.xpm workspacebuttonactive.xpm workspacebuttonbg.xpm taskbuttonactive.xpm taskbuttonminimized.xpm taskbuttonbg.xpm"
 
 #Buttons
 RolloverButtonsSupported=               1
