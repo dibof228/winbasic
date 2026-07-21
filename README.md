@@ -1,7 +1,5 @@
 # WinBasic
-![](screenshot.png)
-
-Windows 7 basic ~~cosplay~~ theme for icewm
+![Windows 7 basic ~~cosplay~~ theme for icewm](screenshot.png)
 ## Installation
 Just run these commands:
 ```
