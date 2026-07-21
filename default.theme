@@ -61,10 +61,10 @@ ColorNormalTaskBarAppText=              "rgb:FF/FF/FF"
 ColorInvisibleTaskBarAppText=           "rgb:FF/FF/FF"
 
 #Menu
-ColorActiveMenu=                        "rgb:97/97/97"
+ColorActiveMenu=                        "rgb:f0/f0/f0"
 ColorActiveMenuItem=                    "rgb:97/97/97"
-ColorNormalMenu=                        "rgb:97/97/97"
-ColorNormalMenuItem=                    "rgb:C0/C0/C0"
+ColorNormalMenu=                        "rgb:f0/f0/f0"
+ColorNormalMenuItem=                    "rgb:97/97/97"
 ColorNormalMenuItemText=                "rgb:00/00/00"
 ColorActiveMenuItemText=                "rgb:00/00/00"
 ColorDisabledMenuItemText=              "rgb:6d/6d/6d"
