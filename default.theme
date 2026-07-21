@@ -2,7 +2,7 @@ ThemeAuthor=                            "dibof228"
 ThemeDescription=                       "WinBasic"
 
 Look=                                   "flat"
-Gradients=                              "buttonA.xpm buttonI.xpm"
+Gradients=                              "buttonA.xpm buttonI.xpm taskbuttonactive.xpm taskbuttonbg.xpm taskbuttonminimized.xpm"
 
 #Buttons
 RolloverButtonsSupported=               1
@@ -14,6 +14,7 @@ TaskBarClockLeds=                       1
 TrayDrawBevel=                          0
 
 #Borders
+TaskBarButtonPadding=                   -2
 BorderSizeX=                            9
 BorderSizeY=                            9
 DlgBorderSizeX=                         9
