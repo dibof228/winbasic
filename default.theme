@@ -161,6 +161,6 @@ ClockFontNameXft=                       "sans-serif:size=9"
 #Desktop
 DesktopBackgroundColor=                 "rgb:00/00/00"
 DesktopTransparencyColor=               "rgb:00/00/00"
-DesktopBackgroundCenter=                1
+DesktopBackgroundCenter=                0
 DesktopBackgroundScaled=                1
 DesktopBackgroundImage=                 "default.jpg"
